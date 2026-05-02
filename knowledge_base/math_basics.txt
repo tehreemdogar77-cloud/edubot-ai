@@ -1,0 +1,17 @@
+MATHEMATICS - BASIC CONCEPTS
+
+Chapter 1: Numbers and Operations
+- Natural numbers are counting numbers: 1, 2, 3, 4, 5
+- Integers include negative numbers: -3, -2, -1, 0, 1, 2, 3
+- BODMAS Rule: Brackets, Orders, Division, Multiplication, Addition, Subtraction
+- Example: 2 + 3 x 4 = 2 + 12 = 14 (multiplication before addition)
+
+Chapter 2: Fractions
+- A fraction has a numerator (top) and denominator (bottom)
+- To add fractions: make denominators equal first
+- Example: 1/2 + 1/3 = 3/6 + 2/6 = 5/6
+
+Chapter 3: Algebra Basics
+- Variables are letters that represent unknown numbers (x, y, z)
+- Equation: 2x + 5 = 11, solving: x = 3
+- Like terms: 3x + 2x = 5x
